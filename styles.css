@@ -1,0 +1,21 @@
+
+body {
+background-color: lavenderblush;
+}
+hr { background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  height: 0px;
+  width:5%;
+ 
+  }
+  h1 {
+    
+    color: rgb(87, 64, 72);
+  }
+  h3 {
+   
+    color: rgb(138, 90, 138);
+  }
